@@ -1,0 +1,17 @@
+/*==================================================================================
+    Custom Stylesheet (Any custom styling you want to apply should be defined here).
+====================================================================================*/
+
+.services-section {
+    background: url(../img/services.jpg) no-repeat;
+    background-size: cover;
+}
+.reviews-section {
+    background: url(../img/custumer-review.jpg) no-repeat;
+    background-size: cover;
+}
+
+.services-section:before,
+.reviews-section:before {
+    background-color: #1c2235;
+}
