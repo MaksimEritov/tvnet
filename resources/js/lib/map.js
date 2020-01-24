@@ -21,7 +21,7 @@ function initMap() {
     // Create the map.
     var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 12,
-        center: { lat: 40.177200, lng: 44.503490 }
+        center: { lat: 40.188437, lng: 44.514057 }
     });
 
     // Construct the circle for each value in citymap.

@@ -1,6 +1,9 @@
 /*==================================================================================
     Custom Stylesheet (Any custom styling you want to apply should be defined here).
 ====================================================================================*/
+.slide-without-effect:before {
+    background: rgba(0, 0, 0, 0.1);
+}
 
 .services-section {
     background: url(../img/services.jpg) no-repeat;
@@ -14,4 +17,40 @@
 .services-section:before,
 .reviews-section:before {
     background-color: #1c2235;
+}
+.contact-widget-content ul li a {
+    margin-left: 10px;
+}
+.single-service {
+    min-height: 300px;
+    cursor: pointer;
+}
+.single-service svg.svg-inline--fa {
+    margin-bottom: 0;
+}
+.map-wrapper {
+    height: 400px;
+}
+.contact_map {
+    border: 1px solid;
+    padding: 3px;
+}
+.about-p {
+    text-align: center;
+}
+.btn:after {
+    background-color: #2e5ae8;
+}
+.header-call span {
+    white-space: nowrap;
+}
+.service-details ul li {
+    width: auto;
+}
+.channels-btn {
+    border-radius: 10px;
+    background-color: #2e5ae8;
+    color: white;
+    white-space: nowrap;
+    margin: 30px 0;
 }

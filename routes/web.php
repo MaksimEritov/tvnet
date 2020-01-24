@@ -14,3 +14,17 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/internet', function () {
+    return view('internet');
+});
+Route::get('/tv', function () {
+    return view('tv');
+});
+Route::get('/hash', function () {
+    return view('hash');
+});
+
+

@@ -1,39 +1,12 @@
     <!-- Main header -->
     <header class="header">
-        <div class="header-top" data-animate="fadeInDown" data-delay=".5">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-7">
-                        <div class="header-info text-center text-md-left">
-                            <span>Get up to 1 Gbps Download Speed on $98.50/m <a href="#">Get It Now</a></span>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-5">
-                        <div class="header-top-right d-flex align-items-center justify-content-center justify-content-md-end">
-                            <form class="parsley-validate d-flex position-relative" action="#">
-                                <input type="text" placeholder="I am looking for" required>
-                                <button type="submit"><i class="fa fa-search"></i></button>
-                            </form>
-                            <div class="client-area position-relative">
-                                <span id="dropdownMenuButton" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">My Account <i class="fa fa-caret-down"></i></span>
-                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                                    <a class="dropdown-item" href="#">Sign In</a>
-                                    <a class="dropdown-item" href="#">Sign Up</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
         <div class="main-header" data-animate="fadeInUp" data-delay=".9">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-9">
                         <!-- Logo -->
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="img/logo.png" data-rjs="2" alt="TVNet">
                             </a>
                         </div>
@@ -43,29 +16,25 @@
                             <!-- Header-menu -->
                             <div class="header-menu">
                                 <ul>
-                                    <li class="active"><a href="index.html">Home</a></li>
-                                    <li><a href="http://billing.ywhmcs.com/?systpl=Serviney">WHMCS</a></li>
+                                    <li class="active"><a href="/">Գլխավոր էջ</a></li>
                                     <li>
-                                        <a href="#">Pages <i class="fa fa-caret-down"></i></a>
+                                        <a href="#">Կայքի քարտեզ <i class="fa fa-caret-down"></i></a>
                                         <ul>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="packages.html">Packages</a></li>
-                                            <li><a href="reviews.html">Reviews</a></li>
-                                            <li><a href="faq.html">FAQ</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="/#about-section">Մեր մասին</a></li>
+                                            <li><a href="/#services-section">Ծառայություններ</a></li>
+                                            <li><a href="/#packages-section">Փաթեթներ</a></li>
+                                            <li><a href="/#reviews-section">Հաճախորդները Մեր Մասին</a></li>
+                                            <li><a href="/#news-section">Նորություններ</a></li>
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="#">Services <i class="fa fa-caret-down"></i></a>
+                                        <a href="#">Ծառայություններ <i class="fa fa-caret-down"></i></a>
                                         <ul>
-                                            <li><a href="services.html">All services</a></li>
-                                            <li><a href="cable-tv.html">Cable TV</a></li>
-                                            <li><a href="dedicated-server.html">Dedicated server</a></li>
-                                            <li><a href="internet.html">Internet provider</a></li>
-                                            <li><a href="mobile.html">Mobile packages</a></li>
+                                            <li><a href="/tv">Կաբելային TV</a></li>
+                                            <li><a href="/internet">Ինտերնետ</a></li>
                                         </ul>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="#">Blog <i class="fa fa-caret-down"></i></a>
                                         <ul>
                                             <li><a href="blog.html">Full Width</a></li>
@@ -100,8 +69,8 @@
                                             <li><a href="cart.html">Cart</a></li>
                                             <li><a href="checkout.html">Checkout</a></li>
                                         </ul>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    </li> -->
+                                    <li><a href="/about">Կապ</a></li>
                                 </ul>
                             </div>
                             <!-- End of Header-menu -->
@@ -110,7 +79,7 @@
                     <div class="col-xl-2 col-lg-2 col-md-4 col-sm-6 d-none d-sm-block">
                         <!-- Header Call -->
                         <div class="header-call text-right">
-                            <span>Call Now</span>
+                            <span>Կոնտակտային տվյալներ</span>
                             <a href="tel:+1234567890"> +374 (10) 370808</a>
                         </div>
                     </div>
