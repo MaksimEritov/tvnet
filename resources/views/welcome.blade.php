@@ -22,35 +22,17 @@
                     </div>
                     <!-- End of Single slide -->
 
-                    <!-- Single slide -->
-                    <div class="swiper-slide position-relative">
-                        <img src="img/slides/slide_4.jpg" data-rjs="2" alt="">
-                        <div class="slide-content container">
-                            <div class="row align-items-center">
-                                <div class="col-xl-6 col-lg-8">
-                                    <div class="slide-content-inner">
-                                        <h4 data-animate="fadeInUp" data-delay=".05">Ինտերնետը անհրաժեշտ է յուրաքանչյուրмտան մեջ</h4>
-                                        <h2 data-animate="fadeInUp" data-delay=".3">Ստացեք անվճար ինտերնետ արդեն այսօր:</h2>
-                                        <a data-animate="fadeInUp" data-delay=".6" href="/internet" class="btn">Դիտեք մանրամասները</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End of Single slide -->
                     
                     <!-- Single slide -->
                     <div class="swiper-slide position-relative">
                         <img src="img/slides/slide_5.jpg" data-rjs="2" alt="">
                         <div class="slide-content container">
-                            <div class="row align-items-center">
-                                <div class=" col-xl-6 col-lg-8">
+                            <div class="row align-items-end">
                                     <div class="slide-content-inner">
                                         <h4 data-animate="fadeInUp" data-delay=".05">Դարձիր մեր հաճախորդը</h4>
                                         <h2 data-animate="fadeInUp" data-delay=".3">3 TV միացնելու հնարավորությունը կապահովի ձեր ընտանիքը նոր տպավորություններով</h2>
                                         <a data-animate="fadeInUp" data-delay=".6" href="/tv" class="btn">Դիտեք մանրամասները</a>
                                     </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -190,7 +172,7 @@
                                 <li>Ինտերնետ մինչեւ <span>30 Mpbs</span></li>
                                 <li>Մինչև <span>100</span> TV channels</li>
                                 <li>Անսահմանափակ տվյալների օգտագործում</li>
-                                <li><span>01 տարի</span> ֆիքսված գներ</li>
+                                <li><span>1 տարի</span> ֆիքսված գներ</li>
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
                             <p> 7000 <sup>֌</sup> <span>/ամսական</span></p>
@@ -208,7 +190,7 @@
                                 <li>Ինտերնետ մինչեւ <span>40 Mpbs</span></li>
                                 <li>Մինչև <span>100</span> TV ալիք</li>
                                 <li>Անսահմանափակ տվյալների օգտագործում</li>
-                                <li><span>01 տարի</span> ֆիքսված գներ</li>
+                                <li><span>1 տարի</span> ֆիքսված գներ</li>
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
                             <p>8000 <sup>֌</sup><span>/ամսական</span></p>
@@ -225,7 +207,7 @@
                                 <li>Ինտերնետ մինչեւ <span>55 Mpbs</span></li>
                                 <li>Մինչև <span>100</span> TV ալիք</li>
                                 <li>Անսահմանափակ տվյալների օգտագործում</li>
-                                <li><span>01 տարի</span> ֆիքսված գներ</li>
+                                <li><span>1 տարի</span> ֆիքսված գներ</li>
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
                             <p>9000 <sup>֌</sup><span>/ամսական</span></p>
