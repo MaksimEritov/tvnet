@@ -73,18 +73,5 @@
                 </div>
             </div>
         </div>
-        <!-- <div class='small-header' id='sHeader'>
-            <ul>
-                <li><a href="/">Գլխավոր էջ</a></li>
-                <li><a href="/#about-section">Մեր մասին</a></li>
-                <li><a href="/#services-section">Ծառայություններ</a></li>
-                <li><a href="/#packages-section">Փաթեթներ</a></li>
-                <li><a href="/#reviews-section">Հաճախորդները Մեր Մասին</a></li>
-                <li><a href="/#news-section">Նորություններ</a></li>
-                <li><a href="/tv">Կաբելային TV</a></li>
-                <li><a href="/internet">Ինտերնետ</a></li>
-                <li><a href="/about">Կապ</a></li>
-            </ul>
-        </div> -->
     </header>
     <!-- End of Main header -->

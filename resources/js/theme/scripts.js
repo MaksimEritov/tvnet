@@ -45,11 +45,6 @@ We may release future updates so it will overwrite this file. it's better and sa
             event.preventDefault();
         });
 
-        $(".header-menu").menumaker({
-            title: '<i class="fa fa-bars"></i>',
-            format: "multitoggle"
-        });
-
         var mainHeader = $('.main-header');
         
         if(mainHeader.length) {
@@ -253,17 +248,6 @@ We may release future updates so it will overwrite this file. it's better and sa
             });
         }
         
-        
-        /* 10: Video popup
-        ==============================================*/
-
-        var $youtubePopup = $('.youtube-popup');
-
-        if($youtubePopup.length) {
-            $youtubePopup.magnificPopup({
-                type:'iframe'
-            });
-        }
 
         
         /* 11: Google map

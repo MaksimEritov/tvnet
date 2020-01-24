@@ -69,7 +69,6 @@ ul.navbar-nav li:last-child {
 .slide-content-inner {
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
     align-items: center;
     height: 100%;
     z-index: 100;
@@ -83,4 +82,35 @@ ul.navbar-nav li:last-child {
 .slide-content-inner a {
     margin-top: auto;
     margin-bottom: 100px;
+}
+
+@media (max-width: 1199.98px) {
+    .swiper-container {
+        height: 80vh;
+    }
+}
+@media (max-width: 992.98px) {
+    .swiper-container {
+        height: 60vh;
+    }
+    .slide-content-inner h2 {
+        font-size: 1.5rem;
+    }
+}
+@media (max-width: 575.98px) {
+    .swiper-container {
+        height: 50vh;
+    }
+}
+.single-package a {
+    color: white !important;
+}
+.modal-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.modal-body a {
+    padding: 10px;
 }

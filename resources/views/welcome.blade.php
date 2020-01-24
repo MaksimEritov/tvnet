@@ -8,7 +8,7 @@
                 <div class="swiper-wrapper">
                     <!-- Single slide -->
                     <div class="swiper-slide position-relative ">
-                        <img src="img/slides/slide_1.png" data-rjs="2" alt="">
+                        <img src="img/slides/slide_1.png" data-rjs="2" alt="" class='img-fluid'>
                         <div class="slide-content container slide-without-effect">
                             <div class="row align-items-center">
                                 <div class="col-xl-6 col-lg-8">
@@ -25,14 +25,14 @@
                     
                     <!-- Single slide -->
                     <div class="swiper-slide position-relative">
-                        <img src="img/slides/slide_5.jpg" data-rjs="2" alt="">
+                        <img src="img/slides/slide_5.jpg" data-rjs="2" alt="" class='img-fluid'>
                         <div class="slide-content container">
                             <div class="row align-items-end">
-                                    <div class="slide-content-inner">
-                                        <h4 data-animate="fadeInUp" data-delay=".05">Դարձիր մեր հաճախորդը</h4>
-                                        <h2 data-animate="fadeInUp" data-delay=".3">3 TV միացնելու հնարավորությունը կապահովի ձեր ընտանիքը նոր տպավորություններով</h2>
-                                        <a data-animate="fadeInUp" data-delay=".6" href="/tv" class="btn">Դիտեք մանրամասները</a>
-                                    </div>
+                                <div class="slide-content-inner">
+                                    <h4 data-animate="fadeInUp" data-delay=".05">Դարձիր մեր հաճախորդը</h4>
+                                    <h2 data-animate="fadeInUp" data-delay=".3">3 TV միացնելու հնարավորությունը կապահովի ձեր ընտանիքը նոր տպավորություններով</h2>
+                                    <a data-animate="fadeInUp" data-delay=".6" href="/tv" class="btn">Դիտեք մանրամասները</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
                             <p> 7000 <sup>֌</sup> <span>/ամսական</span></p>
-                            <a href="tel:+1234567890" class="btn">Զանգահարեք մեզ</a>
+                            <a data-toggle="modal" data-target="#numbers" class="btn">Զանգահարեք մեզ</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
@@ -194,7 +194,7 @@
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
                             <p>8000 <sup>֌</sup><span>/ամսական</span></p>
-                            <a href="tel:+1234567890" class="btn">Զանգահարեք մեզ</a>
+                            <a data-toggle="modal" data-target="#numbers" class="btn">Զանգահարեք մեզ</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
@@ -211,7 +211,7 @@
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
                             <p>9000 <sup>֌</sup><span>/ամսական</span></p>
-                            <a href="tel:+1234567890" class="btn">Զանգահարեք մեզ</a>
+                            <a data-toggle="modal" data-target="#numbers" class="btn">Զանգահարեք մեզ</a>
                         </div>
                     </div>
                 </div>
@@ -427,5 +427,26 @@
             </div>
         </section>
         <!-- End of Latest news -->
+        <!-- Modal -->
+        <div class="modal fade" id="numbers" tabindex="-1" role="dialog" aria-labelledby="numbers" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="numbersLabel">Զանգահարեք հետևյալ համարներին</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <a href="tel:+37410370808"> +374 (10) 370808</a>
+                    <a href="tel:+37499370808"> +374 (99) 370808</a>
+                    <a href="tel:+37455370808"> +374 (55) 370808</a>
+                    <a href="tel:+37460370808"> +374 (60) 370808</a>
+                    <a href="tel:+37494370808"> +374 (94) 374737</a> 
+                </div>
+                </div>
+            </div>
+        </div>
+        <!-- End of modal -->
     </div>
 @endsection
