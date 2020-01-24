@@ -1,6 +1,7 @@
 {
     "private": true,
     "scripts": {
+        "postinstall": "npm run prod",
         "dev": "npm run development",
         "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
         "watch": "npm run development -- --watch",
@@ -16,5 +17,9 @@
         "lodash": "^4.17.13",
         "resolve-url-loader": "^2.3.1",
         "vue-template-compiler": "^2.6.11"
+    },
+    "engines": {
+        "node": ">= 6.9.4",
+        "npm": ">= 4.4.0"
     }
 }
