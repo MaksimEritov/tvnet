@@ -11,7 +11,23 @@
                                 <ul class="list-unstyled">
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">(+374) 370808</a>
+                                        <a href="tel:+1234567890">+374 (10) 370808</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-phone"></i>
+                                        <a href="tel:+1234567890">+374 (99) 370808</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-phone"></i>
+                                        <a href="tel:+1234567890">+374 (55) 370808</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-phone"></i>
+                                        <a href="tel:+1234567890">+374 (60) 370808</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-phone"></i>
+                                        <a href="tel:+1234567890">+374 (94) 374737</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-envelope"></i>

@@ -41,6 +41,30 @@
                 <!-- Banner Pagination -->
                 <div class="swiper-pagination main-slider-pagination"></div>
             </div>
+            <div class='container'>
+                <div class='row card-holder-row '>
+                    <div class='col-md-6'>
+                        <div class='card-holder'>
+                            <a href="/internet">
+                            <div class='card'>
+                                    <i class="fas fa-globe"></i>
+                                    <h1>Internet</h1>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class='col-md-6'>
+                        <div class='card-holder'>
+                            <a href="/tv">
+                            <div class='card'>
+                                    <i class="fas fa-tv"></i>
+                                    <h1>TV</h1>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
         <!-- End of Banner -->
 
@@ -62,7 +86,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center mt-2">
-                    <div class="col-md-4 col-sm-6">
+                    <div class="col-md-4">
                         <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
                             <div class="single-feature-img">
                                 <img src="img/icons/setup.svg" alt="" class="svg">
@@ -73,7 +97,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6">
+                    <div class="col-md-4 ">
                         <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
                             <div class="single-feature-img">
                                 <img src="img/icons/download.svg" alt="" class="svg">
@@ -84,7 +108,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6">
+                    <div class="col-md-4 ">
                         <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                             <div class="single-feature-img">
                                 <img src="img/icons/support.svg" alt="" class="svg">
@@ -111,7 +135,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 ">
                         <a href='/internet'>
                             <div class="single-service single-service-white text-center" data-animate="fadeInUp" data-delay=".1">
                                 <img src="img/icons/earth.svg" alt="" class="svg">
@@ -123,7 +147,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 ">
                         <a href='/tv'>
                             <div class="single-service single-service-white text-center" data-animate="fadeInUp" data-delay=".7">
                                 <img src="img/icons/tv.svg" alt="" class="svg">
@@ -133,7 +157,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 ">
                         <div class="single-service single-service-white text-center" data-animate="fadeInUp" data-delay="1">
                             <img src="img/icons/server.svg" alt="" class="svg">
                             <h4>IP TV</h4>
@@ -162,7 +186,7 @@
                 
                 <!-- Packages -->
                 <div class="row pb-90">
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 ">
                         <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
                             <h4>Personal Pack</h4>
                             <span>Փաթեթը ներառում է</span>
@@ -175,11 +199,11 @@
                                 <li><span>1 տարի</span> ֆիքսված գներ</li>
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
-                            <p> 7000 <sup>֌</sup> <span>/ամսական</span></p>
+                            <p> 7000 <sup>AMD</sup> <span>/ամսական</span></p>
                             <a data-toggle="modal" data-target="#numbers" class="btn">Զանգահարեք մեզ</a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 ">
                         <div class="single-package text-center" data-animate="fadeInUp" data-delay=".4">
                             <span class="pupular-pack">Most popular package</span>
                             <h4>Starter Pack</h4>
@@ -193,11 +217,11 @@
                                 <li><span>1 տարի</span> ֆիքսված գներ</li>
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
-                            <p>8000 <sup>֌</sup><span>/ամսական</span></p>
+                            <p>8000 <sup>AMD</sup><span>/ամսական</span></p>
                             <a data-toggle="modal" data-target="#numbers" class="btn">Զանգահարեք մեզ</a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
+                    <div class="col-lg-4 ">
                         <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
                             <h4>Pro Pack</h4>
                             <span>Փաթեթը ներառում է</span>
@@ -210,7 +234,7 @@
                                 <li><span>1 տարի</span> ֆիքսված գներ</li>
                                 <li>Անվճար Տեխնիկական Սպասարկում</li>
                             </ul>
-                            <p>9000 <sup>֌</sup><span>/ամսական</span></p>
+                            <p>9000 <sup>AMD</sup><span>/ամսական</span></p>
                             <a data-toggle="modal" data-target="#numbers" class="btn">Զանգահարեք մեզ</a>
                         </div>
                     </div>

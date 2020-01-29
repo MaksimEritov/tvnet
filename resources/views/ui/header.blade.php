@@ -5,7 +5,7 @@
                 <div class="row align-items-center">
                     <div class="col-12">
                         <nav class="navbar navbar-expand-lg">
-                            <a class="navbar-brand" href="#">
+                            <a class="navbar-brand" href="/">
                                 <img src="img/logo.png" lass="d-inline-block align-top" alt="">
                             </a>
                             <button 
