@@ -117,7 +117,7 @@ sup {
     height: 200px;
     max-width: 50vw;
     max-height: 30vh;
-    background-color: #5983ab;
+    background-color: #00529e;
     border: 5px solid white;
     border-radius: 20px;
     color: white;
@@ -125,8 +125,8 @@ sup {
 .card:hover {
     cursor: pointer;
     background-color: white;
-    color: #5983ab;
-    border-color: #5983ab;
+    color: #00529e;
+    border-color: #00529e;
 }
 .card a,
 .card h1,

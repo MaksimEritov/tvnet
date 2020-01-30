@@ -11,23 +11,23 @@
                                 <ul class="list-unstyled">
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">+374 (10) 370808</a>
+                                        <a href="tel:+37410370808">+374 (10) 370808</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">+374 (99) 370808</a>
+                                        <a href="tel:+37499370808">+374 (99) 370808</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">+374 (55) 370808</a>
+                                        <a href="tel:+37455370808">+374 (55) 370808</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">+374 (60) 370808</a>
+                                        <a href="tel:+37460370808">+374 (60) 370808</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">+374 (94) 374737</a>
+                                        <a href="tel:+37494374737">+374 (94) 374737</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-envelope"></i>
@@ -86,7 +86,7 @@
                     <!-- Copyright -->
                     <div class="col-md-6">
                         <div class="copyright-text text-center text-md-left">
-                            <p class="mb-md-0">&copy; 2018 Khachatur Makaryan. All rights reserved.</p>
+                            <p class="mb-md-0">&copy; 2020 Khachatur Makaryan. All rights reserved.</p>
                         </div>
                     </div>
 
